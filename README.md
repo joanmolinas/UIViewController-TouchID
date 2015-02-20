@@ -1,4 +1,4 @@
-# UIViewController-TouchID
+UIViewController+TouchID
 ======================
 TouchID used easy on one line in your ViewController. 
 
