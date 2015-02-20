@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C4F46AD7-52CB-45FC-B85A-54D73115AA8A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TouchIDTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6157CA02235113AB9227892E4816B956BEDD4A81</key>
+		<string>https://github.com/ulidev/UIViewController-TouchID.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TouchIDTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6157CA02235113AB9227892E4816B956BEDD4A81</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ulidev/UIViewController-TouchID.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6157CA02235113AB9227892E4816B956BEDD4A81</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6157CA02235113AB9227892E4816B956BEDD4A81</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UIViewController-TouchID</string>
+		</dict>
+	</array>
+</dict>
+</plist>
