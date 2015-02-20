@@ -13,6 +13,7 @@ For install, you can import JMBackgroundCameraView folder to your project. Impor
     <pre><code>[self useTouchIDWithDescription:@"TouchID" completion:^(BOOL success, NSString *stateMessage, LAError errorResult) {
         NSLog(@"%ld",errorResult);
     }];</code></pre>
+3. Import LocalAuthentication framework
 
 ##Return values
 - success: BOOL -> if succes or not
