@@ -4,7 +4,7 @@ TouchID used easy on one line in your ViewController.
 
 ##Installation
 At this moment, You can install only a way, manually.
-For install, you can import JMBackgroundCameraView folder to your project. Import `JMBackgroundCameraView.h` and init a view.
+For install, you can import JMBackgroundCameraView folder to your project. Import `UIViewController+TouchID.h` and init a view.
 ##Usage
 1. Import `UIViewController+TouchID.h and .m`in your project:   
     `#import "UIViewController+TouchID.h"`
